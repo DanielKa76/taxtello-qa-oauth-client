@@ -1,0 +1,9 @@
+{
+  "client_id": "https://cdn.jsdelivr.net/gh/DanielKa76/taxtello-qa-oauth-client@v1/client.json",
+  "client_name": "Taxtello QA E2E",
+  "client_uri": "https://github.com/DanielKa76/taxtello-qa-oauth-client",
+  "redirect_uris": ["http://127.0.0.1/callback"],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none"
+}
